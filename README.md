@@ -1,3 +1,13 @@
-<a href="https://en.wikipedia.org/wiki/Canada">
-  <img src="https://img.shields.io/static/v1?label=Proudly&message=Canadian&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDk2MDAgNDgwMCI+PHRpdGxlPkZsYWcgb2YgQ2FuYWRhPC90aXRsZT48cGF0aCBmaWxsPSIjZjAwIiBkPSJtMCAwaDI0MDBsOTkgOTloNDYwMmw5OS05OWgyNDAwdjQ4MDBoLTI0MDBsLTk5LTk5aC00NjAybC05OSA5OUgweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0yNDAwIDBoNDgwMHY0ODAwaC00ODAwem0yNDkwIDQ0MzAtNDUtODYzYTk1IDk1IDAgMCAxIDExMS05OGw4NTkgMTUxLTExNi0zMjBhNjUgNjUgMCAwIDEgMjAtNzNsOTQxLTc2Mi0yMTItOTlhNjUgNjUgMCAwIDEtMzQtNzlsMTg2LTU3Mi01NDIgMTE1YTY1IDY1IDAgMCAxLTczLTM4bC0xMDUtMjQ3LTQyMyA0NTRhNjUgNjUgMCAwIDEtMTExLTU3bDIwNC0xMDUyLTMyNyAxODlhNjUgNjUgMCAwIDEtOTEtMjdsLTMzMi02NTItMzMyIDY1MmE2NSA2NSAwIDAgMS05MSAyN2wtMzI3LTE4OSAyMDQgMTA1MmE2NSA2NSAwIDAgMS0xMTEgNTdsLTQyMy00NTQtMTA1IDI0N2E2NSA2NSAwIDAgMS03MyAzOGwtNTQyLTExNSAxODYgNTcyYTY1IDY1IDAgMCAxLTM0IDc5bC0yMTIgOTkgOTQxIDc2MmE2NSA2NSAwIDAgMSAyMCA3M2wtMTE2IDMyMCA4NTktMTUxYTk1IDk1IDAgMCAxIDExMSA5OGwtNDUgODYzeiIvPjwvc3ZnPg==&style=plastic" width="auto" height="24px" alt="">
-</a>
+<div align="center">
+  <div align="center">
+    <samp align="left">
+    <ul>
+    <li>hi, i'm mike!</li>
+    <li>learning: laravel + php 🌱</li>
+    <li>loves to use: expressjs, reactjs, django, typescript, java</li>
+    <li>working on: ripple</li>
+    <li>fun fact: i love doing pen sketches </li>
+    </ul>
+  <samp>
+  <div>
+</div>
