@@ -5,7 +5,7 @@
     <li>hi, i'm mike!</li>
     <li>learning: vue, laravel + php 🌱</li>
     <li>loves to use: expressjs, reactjs, django, typescript, java</li>
-    <li>working on: ripple</li>
+    <li>working on: essayer</li>
     <li>fun fact: i love doing pen sketches </li>
     </ul>
   <samp>
